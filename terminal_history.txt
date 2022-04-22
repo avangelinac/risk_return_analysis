@@ -1,0 +1,9 @@
+  213  git clone https://github.com/avangelinac/risk_return_analysis.git
+  214  cd ..
+  215  git clone https://github.com/avangelinac/risk_return_analysis.git
+  216  cd risk_return_analysis
+  217  git add .
+  218  git commit -m
+  219  git commit -m "upload assignment"
+  220  git push origin main
+  221  history 9 > "terminal_history.txt"
